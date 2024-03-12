@@ -17,12 +17,8 @@ Generative Adversarial Networks (GANs) are a class of artificial intelligence al
 
    https://github.com/Mahdi-Savoji/FakeFaces-GAN-celebaFaces
 
-2. Install the required dependencies:
+2. Install the required dependencies.
 
-   ```python
-   pip install -r requirements.txt
-   ```
-   
 ## Usage
 
 1. Ensure that you have downloaded the CelebA Faces dataset and placed it in the appropriate directory.
@@ -31,9 +27,8 @@ Generative Adversarial Networks (GANs) are a class of artificial intelligence al
 
 
 ## File Structure
-- `gan_face_generation.py`: Main Python script containing the GAN implementation.
+- `CelebFaces-FakeFace.ipynb`: Main Python script containing the GAN implementation.
 - `README.md`: This file providing an overview of the project.
-- `requirements.txt`: List of required dependencies.
 
 ## Acknowledgments
 - The implementation of the GAN architecture is based on the work of [Ian J. Goodfellow et al.](https://arxiv.org/abs/1406.2661).
